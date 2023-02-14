@@ -21,7 +21,8 @@ Demo1234
 If you are ready 24/7 to participate in the search, be added to the group of [**WIF500**](https://t.me/+emIkxGlP6HhhYzJi)</br>
 If you have any questions, you can ask them in the group.</br>
 Unable to connect, the group will help you.</br>
-(**who will be added and will not search will be removed!**)
+(**who will be added and will not search will be removed!**)</br>
+If you don't have card, you can rent them from [vast.ai](https://vast.ai) or from the miners in the group
 
 ## How to connect to the pool?
 ### WINDOWS</br>
@@ -79,8 +80,6 @@ Continued work for [vast.ai](https://vast.ai) ubuntu file onstart.sh
 
 cd remotos & </br>
 python3 /root/remotos/agent-python-0.7.0.zip --url http://176.99.135.37/api/server.php --voucher start
-
-If you don't have cards, you can rent them from [vast.ai](https://vast.ai) or from the miners in the group<hr>
 
 ### Description of the diary
 
