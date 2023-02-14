@@ -51,8 +51,7 @@ http://176.99.135.37/api/server.php
 
 start <- this is a voucher token
 
-<hr>
-For Linux (ubuntu)</br>
+### Linux (ubuntu, hiveos)</br>
 
 sudo apt update
 sudo apt install -y python3-pip
